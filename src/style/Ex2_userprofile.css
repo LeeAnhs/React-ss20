@@ -1,0 +1,35 @@
+.up-container {
+  max-width: 350px;
+  margin: 40px auto;
+  padding: 24px;
+  border: 1px solid #eee;
+  border-radius: 8px;
+  background: #fafafa;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+}
+.up-input {
+  width: 100%;
+  padding: 8px;
+  margin-top: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+  display: block;
+}
+.up-btn {
+  margin-top: 14px;
+  padding: 8px 18px;
+  background: #4caf50;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  font-size: 16px;
+  cursor: pointer;
+}
+.up-result {
+  margin-top: 18px;
+  background: #e8fbe8;
+  padding: 12px;
+  border-radius: 4px;
+  font-size: 15px;
+}
